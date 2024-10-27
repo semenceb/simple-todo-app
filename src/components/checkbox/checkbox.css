@@ -1,0 +1,17 @@
+.button-checkbox {
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background: #1a1a1a;
+    aspect-ratio: 1/1;
+    height: 20px;
+}
+
+.button-checkbox:hover {
+    opacity: 0.8;
+}
+
+.button-checkbox.active {
+    background: #3e6ae1;
+    color: white;
+}

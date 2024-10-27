@@ -1,0 +1,16 @@
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+@font-face {
+  font-family: 'Muller ExtraBold';
+  src: url("./assets/fonts/53e59-muller-extrabold-demo.ttf");
+}
+
+body {
+  font-family: 'Muller ExtraBold', sans-serif;
+  background: linear-gradient(to bottom right, #363d49, #0b0c10);
+}
+
+
